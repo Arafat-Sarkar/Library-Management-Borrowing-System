@@ -1,4 +1,5 @@
-📚 Library Management & Borrowing System
+# 📚 Library Management & Borrowing System
+
 A Django REST Framework API for managing a library system that allows users to register, login, browse books, borrow and return books with borrowing limits and penalty points. Admins can manage books, authors, and categories.
 
 🚀 Features
