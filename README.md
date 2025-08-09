@@ -2,7 +2,7 @@
 
 A Django REST Framework API for managing a library system that allows users to register, login, browse books, borrow and return books with borrowing limits and penalty points. Admins can manage books, authors, and categories.
 
-🚀 Features
+## 🚀 Features
 🔐 User registration and login using JWT authentication
 
 📚 Users can browse books and filter by author or category
@@ -21,7 +21,7 @@ A Django REST Framework API for managing a library system that allows users to r
 
 🔒 Secure endpoints with permissions for users and admins
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 🔧 Backend (Django REST Framework)
 Django
 
