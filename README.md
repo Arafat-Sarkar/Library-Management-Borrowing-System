@@ -32,6 +32,7 @@ Simple JWT for authentication
 ## API Endpoints
 
 /api/register/ – JWT authentication endpoints
+
 /api/login/ – JWT authentication endpoints
 
 /api/authors/ – Author CRUD (Admin only)
